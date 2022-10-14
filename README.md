@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey👋,+welcome+to+my+account!)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @NilankanBetal.
 - 👀 I’m interested in creating new useful things.
 - 🌱 I’m currently learning Web Development, Machine Learning, C++, Solidity & Java.
