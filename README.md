@@ -1,5 +1,7 @@
-
-  <p align="center">Hello👋, I’m <b>@NilankanBetal</b>.</p>
+ 
+ <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="80" height="85" />
+ 
+ <p align="center">I’m <b>@NilankanBetal</b>.</p>
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3BF764&width=500&height=70&lines=Welcome+to+my+account!)](https://git.io/typing-svg)
 
