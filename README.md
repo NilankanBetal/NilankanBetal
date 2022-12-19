@@ -15,7 +15,7 @@
         Linkedin :  <a href="https://www.linkedin.com/in/nilankan-betal-297b87214"><img src="https://img.shields.io/badge/-Nilankan-blue?style=social&logo=linkedin"></a>
 
 
-###### Picture contributed by: [Clay Banks](https://unsplash.com/@claybanks)
+<!--- ###### Picture contributed by: [Clay Banks](https://unsplash.com/@claybanks) --->
 <!---
 NilankanBetal/NilankanBetal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
