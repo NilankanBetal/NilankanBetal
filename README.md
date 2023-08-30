@@ -4,7 +4,7 @@
 
 ---
 - 👀 I’m interested in innovative collaborations and implementing interesting and meaningful ideas in real life.
-- 🌱 I’m currently learning <b>Web Development</b>, <b>Machine Learning</b> and <b>Android Development</b>.
+- 🌱 I’m currently learning <b>Web Development</b>.
 - 💻 I'm making programming problems solved and some projects.
 - 💞️ I’m looking to collaborate on impactful projects.
 - 📫 Reach me through,
