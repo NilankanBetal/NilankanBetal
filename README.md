@@ -12,7 +12,7 @@
 - 🏠 Living in Howrah, West Bengal, India.
 
 ***🏛️ Education:***
-- Bachelors of Technology, in AI & ML (will be graduating in 2025) at MCKV Institute of Engineering, Howrah.
+- <b>Bachelors of Technology</b>, in <b>AI & ML (will be graduating in 2025)</b> at MCKV Institute of Engineering, Howrah, West Bengal, India.
 
 ***👀 I’m interested in:***
 - Web Development
@@ -21,10 +21,11 @@
 - AI & Machine Learning
 - App Development
 - Computer Science
-- And pretty much in every thing!
+- And pretty much in everything!
 
 ***🌐 My profile at other platforms:***
-- <a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<br>
+<a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 ***:electron: Tech Stack & Softwares I'm used to:***
 <br>
@@ -54,10 +55,10 @@
 
 ***📫 Reach me through,***
 <br><br>
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
- ![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+ <a href="mailto:nilankanbetal497@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+ <a href="www.linkedin.com/in/nilankan-betal-297b87214">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ <a href="https://twitter.com/BetalNilankan">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+ <a href="https://www.instagram.com/betalnilankan/">![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <!--
 Dev.to:
