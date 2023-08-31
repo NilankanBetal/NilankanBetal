@@ -7,6 +7,7 @@
 ***👦 About Me:***
 - 👨‍💻 Wanna be an Software Enginner.
 - 🌱 I’m currently learning Web Development and doing coursework.
+- 💞️ I’m looking to collaborate on impactful & interesting projects.
 - 🤔 Innovative thinker, I love this!
 - 📖 Curious learner, Tech geek.
 - 🏠 Living in Howrah, West Bengal, India.
@@ -24,7 +25,7 @@
 - And pretty much in everything!
 
 ***🌐 My profile at other platforms:***
-<br>
+<br><br>
 <a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 ***:electron: Tech Stack & Softwares I'm used to:***
