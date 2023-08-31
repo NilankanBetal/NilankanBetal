@@ -4,17 +4,17 @@
  
 ---
 
-**About Me:**
-- Wanna be an Software Enginner.
-- Currently learning, Web Development.
-- Innovative thinker, I love this!
-- Curious learner, Tech geek.
-- Living in Howrah, West Bengal, India.
+***👦 About Me:***
+- 👨‍💻 Wanna be an Software Enginner.
+- 🌱 I’m currently learning Web Development and doing coursework.
+- 🤔 Innovative thinker, I love this!
+- 📖 Curious learner, Tech geek.
+- 🏠 Living in Howrah, West Bengal, India.
 
-_Education:_
+***🏛️ Education:***
 - Bachelors of Technology, in AI & ML (will be graduating in 2025) at MCKV Institute of Engineering, Howrah.
 
-_Interest:_
+***👀 I’m interested in:***
 - Web Development
 - Data Science
 - Data Analytics
@@ -23,10 +23,10 @@ _Interest:_
 - Computer Science
 - And pretty much in every thing!
 
-_My profile at other platforms:_
+***🌐 My profile at other platforms:***
 - <a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
-_Tech Stack & Softwares I'm used to:_
+***:electron: Tech Stack & Softwares I'm used to:***
 <br>
 - Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,25 +41,31 @@ _Tech Stack & Softwares I'm used to:_
 - Softwares:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- Hosting Services:
+- Web Hosting Platforms:
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
+- Version Control Systems & Repository Hosting Softwares:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
 <!-- _Projects:_ -->
 
-_Reach Me Out:_
-Gmail:
-Linkedin:
-Twitter:
-Instagram:
+***📫 Reach me through,***
+<br><br>
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+ ![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <!--
 Dev.to:
 Stakoverflow:
 Quora:
 Medium:
+stackexchange:
+kaggle:
 -->
 
 <!--
