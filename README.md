@@ -1,3 +1,5 @@
+[![An image of @nilankanbetal497's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilankanbetal497)](https://holopin.io/@nilankanbetal497)
+ 
  # Hello I'm Nilankan ([@NilankanBetal](https://github.com/NilankanBetal))
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
