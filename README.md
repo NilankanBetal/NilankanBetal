@@ -94,10 +94,11 @@ kaggle:
 Discord:
 -->
 
-<!--
-***🟩 My GitHub streaks and stats***
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NilankanBetal&theme=dark)](https://git.io/streak-stats)
-[![Nilankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilankanBetal)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+***🟩 My GitHub streaks and stats:*** 
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NilankanBetal&theme=dark)](https://git.io/streak-stats) 
+[![Nilankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilankanBetal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
