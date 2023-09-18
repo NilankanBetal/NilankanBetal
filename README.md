@@ -29,6 +29,8 @@
 ***🌐 My profile at other platforms:***
 <br><br>
 <a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a title="Sandeep Jain, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:GeeksforGeeks.svg" href="https://auth.geeksforgeeks.org/user/nilankanbetal497"><img width="64" alt="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/64px-GeeksforGeeks.svg.png"></a>
+<a title="Coding Ninjas, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:Updated_Logo_RGB-02.png " href="https://www.codingninjas.com/studio/profile/fe67b76c-4ac2-425f-9521-dc5bb7594149"><img width="64" alt="Updated Logo RGB-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Updated_Logo_RGB-02.png/64px-Updated_Logo_RGB-02.png"></a>
 
 ***:electron: Tech Stack & Softwares I'm used to:***
 <br>
