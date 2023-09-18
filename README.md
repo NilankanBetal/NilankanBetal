@@ -40,9 +40,21 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- Dart -->
 
 - Frameworks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--
+Node.js
+React.js
+Next.js
+Express.js
+Django
+Flask
+FastAPI
+Kivy
+Tkinter
+-->
 
 - Softwares:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -61,7 +73,9 @@ Google Colab
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
-<!-- _Projects:_ -->
+<!-- ***Projects:*** -->
+
+<!-- ***🏆 My Achievements:*** -->
 
 ***📫 Reach me through,***
 <br><br>
@@ -77,6 +91,13 @@ Quora:
 Medium:
 stackexchange:
 kaggle:
+Discord:
+-->
+
+<!--
+***🟩 My GitHub streaks and stats***
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NilankanBetal&theme=dark)](https://git.io/streak-stats)
+[![Nilankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilankanBetal)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
