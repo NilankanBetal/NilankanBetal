@@ -7,7 +7,10 @@
 ---
 
 ***👦 About Me:***
-- 👨‍💻 Wanna be an Software Enginner.
+- 👨‍💻 Wanna be an successful Software Enginner.
+<!--
+- Currently working as a _jobPosition_ in _companyName_
+-->
 - 🌱 I’m currently learning Web Development and doing coursework.
 - 💞️ I’m looking to collaborate on impactful & interesting projects.
 - 🤔 Innovative thinker, I love this!
@@ -16,6 +19,17 @@
 
 ***🏛️ Education:***
 - <b>Bachelors of Technology</b>, in <b>AI & ML (will be graduating in 2025)</b> at MCKV Institute of Engineering, Howrah, West Bengal, India.
+
+<!--
+***💻 I'm proefficient in:***
+- Web development.
+- Data analytics.
+- UX designing.
+-->
+
+<!--
+***✋ I'm not ready to hire, I'm currently learning...***
+-->
 
 ***👀 I’m interested in:***
 - Web Development
@@ -32,7 +46,7 @@
 <a title="Sandeep Jain, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:GeeksforGeeks.svg" href="https://auth.geeksforgeeks.org/user/nilankanbetal497"><img width="64" alt="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/64px-GeeksforGeeks.svg.png"></a>
 <a title="Coding Ninjas, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:Updated_Logo_RGB-02.png " href="https://www.codingninjas.com/studio/profile/fe67b76c-4ac2-425f-9521-dc5bb7594149"><img width="64" alt="Updated Logo RGB-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Updated_Logo_RGB-02.png/64px-Updated_Logo_RGB-02.png"></a>
 
-***:electron: Tech Stack & Softwares I'm used to:***
+***:electron: My Tech Stack & Softwares/Tools I use:***
 <br>
 - Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +70,7 @@ Kivy
 Tkinter
 -->
 
-- Softwares:
+- Softwares/Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!-- 
 PyCharm - Community Edition
