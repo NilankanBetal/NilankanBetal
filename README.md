@@ -37,8 +37,12 @@
 ***🌐 My profile at other platforms:***
 <br><br>
 <a href="https://leetcode.com/nilankanbetal497/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://auth.geeksforgeeks.org/user/nilankanbetal497">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)</a>
+<a href="https://www.codingninjas.com/studio/profile/fe67b76c-4ac2-425f-9521-dc5bb7594149">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
+<!--
 <a title="Sandeep Jain, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:GeeksforGeeks.svg" href="https://auth.geeksforgeeks.org/user/nilankanbetal497"><img width="64" alt="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/64px-GeeksforGeeks.svg.png"></a>
 <a title="Coding Ninjas, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons; link: https://commons.wikimedia.org/wiki/File:Updated_Logo_RGB-02.png " href="https://www.codingninjas.com/studio/profile/fe67b76c-4ac2-425f-9521-dc5bb7594149"><img width="64" alt="Updated Logo RGB-02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Updated_Logo_RGB-02.png/64px-Updated_Logo_RGB-02.png"></a>
+-->
 
 ***:electron: My Tech Stack & Softwares/Tools I use:***
 <br>
@@ -81,9 +85,17 @@ Google Colab
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
+<!--
+- Microservices:
+[TODO: Have to check properly wheather Docker is a microservices or not]
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+-->
+
 <!-- ***Projects:*** -->
 
-<!-- ***🏆 My Achievements:*** -->
+<!-- ***🏆 My Achievements:*** 
+- Smart India Hackathon 2022 [TODO: Writing up in details]
+-->
 
 ***📫 Reach me through,***
 <br><br>
