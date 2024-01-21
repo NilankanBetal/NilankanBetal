@@ -117,10 +117,11 @@ stackexchange:
 kaggle:
 Discord:
 -->
-
+<!--
 ***🟩 My GitHub streaks and stats:*** 
 <br><br>
 ![MyGitHubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NilankanBetal&theme=blue-green)
+-->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NilankanBetal&theme=dark)](https://git.io/streak-stats) 
