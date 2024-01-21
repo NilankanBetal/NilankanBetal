@@ -56,13 +56,16 @@
 
 - Frameworks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <!--
 Node.js
 React.js
+Redux
+React Native
 Next.js
 Express.js
 Django
-Flask
+TailwindCSS
 FastAPI
 Kivy
 Tkinter
@@ -70,10 +73,10 @@ Tkinter
 
 - Softwares/Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 <!-- 
 PyCharm - Community Edition
 Jupyter notebook
-Google Colab
 -->
 
 - Web Hosting Platforms:
